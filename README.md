@@ -38,23 +38,21 @@
 
 ---
 
-<h2 align="center">🧩 Featured Projects</h2>
+<h2 align="center">My Best Projects</h2>
 
 - [**UniPy**](#) – My custom Python engine with a modular and scriptable structure  
 - [**C42**](#) – An esoteric programming language with a unique concept  
-- [**UniUI**](https://UniUIscene management system  
-- [**Unity Games**](#) – 3–4 small but creative projects with unique mechanics  
-
+- [**UniUI**](https://UniUIscene management system
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almazEPT&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmazCode&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almazEPT&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazCode&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact" />
 </p>
 
 ---
