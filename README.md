@@ -40,8 +40,8 @@
 
 <h2 align="center">My Best Projects</h2>
 
-- [**UniPy**](#) – My custom Python engine with a modular and scriptable structure  
-- [**C42**](#) – An esoteric programming language with a unique concept  
+- [**UniPy**](https://github.com/AlmazCode/UniPy) – My custom Python engine with a modular and scriptable structure  
+- [**C42**](https://github.com/AlmazCode/C42) – An esoteric programming language with a unique concept  
 - [**UniUI**](https://github.com/AlmazCode/UniUI) - A dynamic UI and scene management system
 ---
 
@@ -60,7 +60,7 @@
 <h2 align="center">Where you can find me</h2>
 
 <p align="center">
-  <a href="https://github.com/almazEPT">GitHub</a> •
+  <a href="https://github.com/AlmazCode">GitHub</a> •
   <a href="https://discord.com/users/almazcode">Discord</a> •
   <a href="#">Portfolio (coming soon)</a>
 </p>
