@@ -42,7 +42,7 @@
 
 - [**UniPy**](#) – My custom Python engine with a modular and scriptable structure  
 - [**C42**](#) – An esoteric programming language with a unique concept  
-- [**UniUI**](https://UniUIscene management system
+- [**UniUI**](https://github.com/AlmazCode/UniUI) - A dynamic UI and scene management system
 ---
 
 <h2 align="center">GitHub Stats</h2>
