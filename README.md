@@ -60,9 +60,7 @@
 <h2 align="center">Where you can find me</h2>
 
 <p align="center">
-  <a href="https://github.com/AlmazCode">GitHub</a> •
-  <a href="https://discord.com/users/almazcode">Discord</a> •
-  <a href="#">Portfolio (coming soon)</a>
+  <a href="https://github.com/AlmazCode">GitHub</a>
 </p>
 
 ---
