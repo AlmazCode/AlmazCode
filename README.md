@@ -59,21 +59,12 @@
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">Where you can find me</h2>
 
 <p align="center">
   <a href="https://github.com/almazEPT">GitHub</a> •
-  <a href="https://discord.gg/">Discord</a> •
+  <a href="https://discord.com/users/almazcode">Discord</a> •
   <a href="#">Portfolio (coming soon)</a>
 </p>
-
----
-
-<h3 align="center">🌀 Final Note</h3>
-<p align="center">
-  I build things to understand how they work.  
-  My goal is to design elegant systems — from <b>engines</b> to <b>languages</b>.  
-  Always learning, always creating. ✨
-</p></p>
 
 ---
