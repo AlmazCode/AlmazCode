@@ -4,11 +4,11 @@
 
 <h2 align="center">What I Do?</h2>
 
-- 🧩 Developing my own **UI Framework** in Python (Pygame-based)  
-- ⚙️ Creating **custom engines** and systems like `UniPy`  
-- 🧠 Designing **esoteric languages** like `C42`  
-- 🎮 Making small but unique **games in Unity**  
-- 💬 Building **bots** for Telegram, Discord & WhatsApp  
+- Developing my own **UI Framework** in Python (Pygame-based)  
+- Creating **custom engines** and systems like `UniPy`  
+- Designing **esoteric languages** like `C42`  
+- Making small but unique **games in Unity**  
+- Building **bots** for Telegram, Discord & WhatsApp  
 
 ---
 
@@ -45,7 +45,7 @@
 - [**UniUI**](https://UniUIscene management system
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlmazCode&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
