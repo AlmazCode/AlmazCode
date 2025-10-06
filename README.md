@@ -1,8 +1,8 @@
-<h2 align="center">Welcome to my GitHub Profile 👋</h2>
+<h2 align="center">Hello!!!</h2>
 
 ---
 
-<h2 align="center">💡 What I Do</h2>
+<h2 align="center">What I Do?</h2>
 
 - 🧩 Developing my own **UI Framework** in Python (Pygame-based)  
 - ⚙️ Creating **custom engines** and systems like `UniPy`  
@@ -12,17 +12,15 @@
 
 ---
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center">My Current Focus</h2>
 
 - Working on: Expanding my Pygame framework and adding UI/UX features  
 - Learning: Low-level programming, architecture patterns, and graphics systems  
 - Open to collaborate on: Game mechanics, tools, or frameworks  
-- Ask me about: Python, Pygame, Unity, C++, or game architecture  
-- Fun fact: My favorite number is <b>42</b> 🌌  
-
+- Ask me about: Python, Pygame, Unity, C++, or game architecture
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">My Stack</h2>
 
 <div align="center">
 
@@ -32,12 +30,8 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Pygame-008000?style=for-the-badge&logo=python&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </div>
@@ -48,7 +42,7 @@
 
 - [**UniPy**](#) – My custom Python engine with a modular and scriptable structure  
 - [**C42**](#) – An esoteric programming language with a unique concept  
-- [**UI Framework (Pygame)**](#) – A dynamic UI and scene management system  
+- [**UniUI**](https://UniUIscene management system  
 - [**Unity Games**](#) – 3–4 small but creative projects with unique mechanics  
 
 ---
