@@ -24,15 +24,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Pygame-008000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Pygame-008000.svg?logo=python&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 
 </div>
 
@@ -43,6 +45,7 @@
 - [**UniPy**](https://github.com/AlmazCode/UniPy) – My custom Python engine with a modular and scriptable structure  
 - [**C42**](https://github.com/AlmazCode/C42) – An esoteric programming language with a unique concept  
 - [**UniUI**](https://github.com/AlmazCode/UniUI) - A dynamic UI and scene management system
+- [**Project Friday**](https://github.com/AlmazCode/Project-Friday) - Small voice assistant
 ---
 
 <h2 align="center">GitHub Stats</h2>
